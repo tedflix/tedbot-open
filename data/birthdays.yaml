@@ -1,0 +1,9 @@
+timezone: "Should be an IANA timezone"
+channel_id: 12345678910
+birthdays: 
+    - Person1:
+        user_id: 12345678
+        birthday: YYYY-MM-DD
+    - Person2:
+        user_id: 87654321
+        birthday: YYYY-MM-DD
